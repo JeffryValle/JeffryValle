@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h3> My name is 👋 <a href="https://github.com/JeffryValle/JeffryValle/">Jeff !</a></h3>
-<img align="right" alt="GIF" height="190px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTUxenZ2emtrc3Jhc3diaWh3dTJxcTFpbzJqeXBuNG5iNmw4YmFyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aCTfyhYawdOXcFW/giphy.gif">
+<!-- <img align="right" alt="GIF" height="100px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTUxenZ2emtrc3Jhc3diaWh3dTJxcTFpbzJqeXBuNG5iNmw4YmFyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aCTfyhYawdOXcFW/giphy.gif" /> -->
 <h2 style="text-decoration: none;" >I’m Jeffry Valle, a passionate Software Engineering student 💻 </h2>
 <ul>
 <li>👨‍💻 I’m currently learning about React JS.</li>
